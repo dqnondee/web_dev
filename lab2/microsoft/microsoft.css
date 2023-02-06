@@ -1,0 +1,92 @@
+body{
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+nav{
+    margin-left: 76px;
+    margin-top: 14px;
+}
+nav img{
+    width: 110px;
+}
+nav a{
+    text-decoration: none;
+    color: #262626;
+    cursor: pointer;
+    font-size: 13px;
+    margin-left: 20px;
+}
+nav a:hover{
+    border-bottom: 3px solid #262626;
+}
+nav a img{
+    height: 22px;
+    width: 22px;
+}
+main{
+    margin-left: 69px;
+    margin-top: 18px;
+}
+.main_text_1{
+    margin-top: -370px;
+    margin-left: 80px;
+    color: white;
+    font-size: 34px;
+    font-weight: 600;
+    width: 440px;
+}
+.main_text_2{
+    margin-left: 80px;
+    margin-top: -25px;
+    color: white;
+    font-size: 15px;
+    width: 510px;
+}
+button a:hover{
+    border-bottom: 3px solid #262626;
+}
+button{
+    background-color: rgb(65,105,225);
+    text-align: center;
+    width: 263px;
+    border: none;
+    margin-left: 80px;
+    margin-top: 10px;
+    height: 40px;
+}
+button a{
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+}
+.last{
+    display: flex;
+}
+.last_elements img{
+    width: 330px;
+    margin-left: 15px;
+}
+.last_elements{
+    width: 330px;
+    margin-right: 17px;
+    margin-top: 205px;
+}
+.last_text_1{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 35px;
+}
+.last_text_2{
+    font-size: 15px;
+    width: 300px;
+    margin-top: -17px;
+}
+.last_elements a{
+    margin-right: 25px;
+    text-decoration: none;
+    color: #0067b8;
+    cursor: pointer;
+}
+.last_elements a:hover{
+    border-bottom: 3px solid #0067b8;
+}
