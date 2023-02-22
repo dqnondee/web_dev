@@ -56,7 +56,7 @@ export interface Product {
       description:
        'поддержка платформ: iOS;материал корпуса: алюминий;цвет корпуса: starlight;технология экрана: OLED;объем встроенной памяти: 32 Гб;интерфейсы: Bluetooth, ,Wi-Fi, ,NFC;время работы: в обычном режиме: 18 часов, в режиме энергосбережения: 36 часов',
       rating: '5 / 5',
-      image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hbc/h23/63158668492830/apple-watch-series-8-45-mm-aluminum-zolotistyj-106585021-1.jpg,
+      image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hbc/h23/63158668492830/apple-watch-series-8-45-mm-aluminum-zolotistyj-106585021-1.jpg',
       link: 'https://kaspi.kz/shop/p/apple-watch-series-8-45-mm-aluminum-zolotistyi-106585021/?c=750000000#!/item',
     },
     {
